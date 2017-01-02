@@ -8,34 +8,31 @@
 
 #define Uchar unsigned char
 #define Ushort unsigned short
+#define Uint unsigned int
 #define MAXMEMORY 10000
 
-Uchar endian(Uchar val) {
-	val = static_cast<Uchar>((val & 0x00FF) << 8 | (val & 0xFF00) >> 8);
-	return val;
+Ushort endian(Ushort s) {
+	return s << 8 | s >> 8;
 }
 
-//GOMI
-template<class T>
-class  EndianConvert{
+class Endian {
 public:
-	bool convert(T *val) {
-		int i;
-		char *temp;
-		if ((temp = (char *) calloc(sizeof(T),sizeof(char))) == NULL) {
-			printf("ERROR at EndianConvert.convert");
+	static bool isLittle() {
+		int x = 1;
+		if (*(char *)&x) {
+			return true;
+		}
+		else {
 			return false;
 		}
+	}
 
-		for (i = 0; i < sizeof(T); i++) {
-			temp[i] = ((char*) val)[i];
-		}
-		for (i = 1; i <= sizeof(T); i++) {
-			((char *)val)[i - 1] = temp[sizeof(T) - i];
-		}
+	static Ushort convert(Ushort i) {
+		return i << 8 | i >> 8;
+	}
 
-		free(temp);
-		return true;
+	static Uint convert(Uint i) {
+		return i << 24 | i << 8 & 0x00ff0000 | i >> 8 & 0x0000ff00 | i >> 24 & 0x000000ff;
 	}
 };
 
@@ -46,6 +43,7 @@ public:
 		Uchar cr[2];
 		Ushort st;
 	};
+	
 
 	Tape(char* filepath) {
 		FILE *fp;
@@ -69,7 +67,20 @@ public:
 			buff.cr[i] = GetByte();
 			printf("Buffer<%d>: %02X", i,buff.cr[i]);
 		}
-		return endian(buff.st);
+		return buff.st;
+	}
+
+	char* GetString(Uchar length) {
+		return GetAs(length);
+	}
+
+	char* GetAs(Uchar times) {
+		char* str;
+		for (Uchar i = 0; i < times; i++) {
+			char* a = str + i;
+			*a = (char)GetByte();
+		}
+		return str;
 	}
 
 private:
@@ -83,7 +94,9 @@ int main()
 	Uchar id = tape.GetByte();
 	printf("ID[%02X]",id);
 	Ushort length = tape.GetShort();
-	printf("LENGTH[%04X]",length);
+	printf("LENGTH[%04X]",Endian::isLittle() ? Endian::convert(length):length);
+	char* Key = tape.GetString(length);
+	printf("KEY[%c]",Key);
 
 	char str[34];
 	std::cin >> str;

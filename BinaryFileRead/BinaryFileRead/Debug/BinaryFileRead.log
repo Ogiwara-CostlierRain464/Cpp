@@ -1,3 +1,4 @@
 ﻿  BinaryFileRead.cpp
-  BinaryFileRead.vcxproj -> C:\Users\ogiwara\Documents\GitHub\Cpp\BinaryFileRead\Debug\BinaryFileRead.exe
-  BinaryFileRead.vcxproj -> C:\Users\ogiwara\Documents\GitHub\Cpp\BinaryFileRead\Debug\BinaryFileRead.pdb (Full PDB)
+c:\users\ogiwara\documents\github\cpp\binaryfileread\binaryfileread\binaryfileread.cpp(98): warning C4244: '引数': 'unsigned short' から 'unsigned char' への変換です。データが失われる可能性があります。
+c:\users\ogiwara\documents\github\cpp\binaryfileread\binaryfileread\binaryfileread.cpp(99): warning C4477: 'printf' : 書式文字列 '%c' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'char *' です
+c:\users\ogiwara\documents\github\cpp\binaryfileread\binaryfileread\binaryfileread.cpp(80): error C4700: 初期化されていないローカル変数 'str' が使用されます

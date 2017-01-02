@@ -1,3 +1,4 @@
 ﻿  Bitter.cpp
+c:\users\ogiwara\documents\github\cpp\bitter\bitter\bitter.cpp(46): warning C4244: '初期化中': 'short' から 'char' への変換です。データが失われる可能性があります。
   Bitter.vcxproj -> C:\Users\ogiwara\Documents\GitHub\Cpp\Bitter\Debug\Bitter.exe
   Bitter.vcxproj -> C:\Users\ogiwara\Documents\GitHub\Cpp\Bitter\Debug\Bitter.pdb (Full PDB)
