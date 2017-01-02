@@ -1,0 +1,4 @@
+﻿  BinaryFileRead.cpp
+c:\users\ogiwara\documents\github\cpp\binaryfileread\binaryfileread\binaryfileread.cpp(71): warning C4244: '引数': 'unsigned short' から 'unsigned char' への変換です。データが失われる可能性があります。
+  BinaryFileRead.vcxproj -> C:\Users\ogiwara\Documents\GitHub\Cpp\BinaryFileRead\x64\Debug\BinaryFileRead.exe
+  BinaryFileRead.vcxproj -> C:\Users\ogiwara\Documents\GitHub\Cpp\BinaryFileRead\x64\Debug\BinaryFileRead.pdb (Full PDB)
