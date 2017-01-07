@@ -1,0 +1,1 @@
+..\z_tools\nask.exe rasisos.asm rasisos.img

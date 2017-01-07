@@ -1,0 +1,1 @@
+C:\Users\ogiwara\Documents\GitHub\Cpp\HelloDX\HelloDX\HelloDX.vcxproj;x86

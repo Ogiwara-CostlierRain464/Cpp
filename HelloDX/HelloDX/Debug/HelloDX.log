@@ -1,0 +1,10 @@
+﻿  compilation object save succeeded; see C:\Users\ogiwara\Documents\GitHub\Cpp\HelloDX\Debug\HelloDX\SamplePixelShader.cso
+  compilation object save succeeded; see C:\Users\ogiwara\Documents\GitHub\Cpp\HelloDX\Debug\HelloDX\SampleVertexShader.cso
+  pch.cpp
+  App.cpp
+  DeviceResources.cpp
+  HelloDXMain.cpp
+  SampleFpsTextRenderer.cpp
+  Sample3DSceneRenderer.cpp
+  HelloDX.vcxproj -> C:\Users\ogiwara\Documents\GitHub\Cpp\HelloDX\Debug\HelloDX\HelloDX.exe
+  HelloDX.vcxproj -> C:\Users\ogiwara\Documents\GitHub\Cpp\HelloDX\Debug\HelloDX\HelloDX.pdb (Partial PDB)

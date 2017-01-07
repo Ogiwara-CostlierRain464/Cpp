@@ -11,10 +11,6 @@
 #define Uint unsigned int
 #define MAXMEMORY 10000
 
-Ushort endian(Ushort s) {
-	return s << 8 | s >> 8;
-}
-
 class Endian {
 public:
 	static bool isLittle() {
