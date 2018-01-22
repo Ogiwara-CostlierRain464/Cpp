@@ -1,0 +1,14 @@
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\bin\Debug\concurrent_with_WPF.exe.config
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\bin\Debug\concurrent_with_WPF.exe
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\bin\Debug\concurrent_with_WPF.pdb
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\concurrent_with_WPF.csprojResolveAssemblyReference.cache
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\App.g.cs
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\concurrent_with_WPF_MarkupCompile.cache
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\concurrent_with_WPF_MarkupCompile.lref
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\MainWindow.baml
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\concurrent_with_WPF.g.resources
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\concurrent_with_WPF.Properties.Resources.resources
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\concurrent_with_WPF.csproj.GenerateResource.Cache
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\concurrent_with_WPF.exe
+C:\Users\ogiwara\Documents\GitHub\Cpp\concurrent_with_WPF\concurrent_with_WPF\obj\Debug\concurrent_with_WPF.pdb

@@ -1,0 +1,7 @@
+C:\Users\ogiwara\Documents\GitHub\Cpp\ReversPolishNatation\ReversPolishNatation\bin\Debug\ReversPolishNatation.exe.config
+C:\Users\ogiwara\Documents\GitHub\Cpp\ReversPolishNatation\ReversPolishNatation\bin\Debug\ReversPolishNatation.exe
+C:\Users\ogiwara\Documents\GitHub\Cpp\ReversPolishNatation\ReversPolishNatation\bin\Debug\ReversPolishNatation.pdb
+C:\Users\ogiwara\Documents\GitHub\Cpp\ReversPolishNatation\ReversPolishNatation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ogiwara\Documents\GitHub\Cpp\ReversPolishNatation\ReversPolishNatation\obj\Debug\ReversPolishNatation.csprojResolveAssemblyReference.cache
+C:\Users\ogiwara\Documents\GitHub\Cpp\ReversPolishNatation\ReversPolishNatation\obj\Debug\ReversPolishNatation.exe
+C:\Users\ogiwara\Documents\GitHub\Cpp\ReversPolishNatation\ReversPolishNatation\obj\Debug\ReversPolishNatation.pdb

@@ -1,0 +1,9 @@
+C:\Users\ogiwara\Documents\GitHub\Cpp\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\ogiwara\Documents\GitHub\Cpp\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\ogiwara\Documents\GitHub\Cpp\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\ogiwara\Documents\GitHub\Cpp\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\ogiwara\Documents\GitHub\Cpp\Project1\Project1\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\ogiwara\Documents\GitHub\Cpp\Project1\Project1\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\ogiwara\Documents\GitHub\Cpp\Project1\Project1\obj\Debug\Project1.csproj.ResolveComReference.cache
+C:\Users\ogiwara\Documents\GitHub\Cpp\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\ogiwara\Documents\GitHub\Cpp\Project1\Project1\obj\Debug\Project1.pdb

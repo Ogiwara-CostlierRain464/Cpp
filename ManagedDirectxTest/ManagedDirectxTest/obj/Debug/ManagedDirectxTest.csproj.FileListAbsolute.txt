@@ -1,0 +1,11 @@
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\bin\Debug\ManagedDirectxTest.exe.config
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\bin\Debug\ManagedDirectxTest.exe
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\bin\Debug\ManagedDirectxTest.pdb
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\obj\Debug\ManagedDirectxTest.csprojResolveAssemblyReference.cache
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\obj\Debug\ManagedDirectxTest.csproj.ResolveComReference.cache
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\obj\Debug\ManagedDirectxTest.Properties.Resources.resources
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\obj\Debug\ManagedDirectxTest.csproj.GenerateResource.Cache
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\obj\Debug\ManagedDirectxTest.exe
+C:\Users\ogiwara\Documents\GitHub\Cpp\ManagedDirectxTest\ManagedDirectxTest\obj\Debug\ManagedDirectxTest.pdb

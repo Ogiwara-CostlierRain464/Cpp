@@ -1,0 +1,6 @@
+C:\Users\ogiwara\Documents\GitHub\Cpp\Aidle\Aidle\bin\Debug\Aidle.exe.config
+C:\Users\ogiwara\Documents\GitHub\Cpp\Aidle\Aidle\bin\Debug\Aidle.exe
+C:\Users\ogiwara\Documents\GitHub\Cpp\Aidle\Aidle\bin\Debug\Aidle.pdb
+C:\Users\ogiwara\Documents\GitHub\Cpp\Aidle\Aidle\obj\Debug\Aidle.csprojResolveAssemblyReference.cache
+C:\Users\ogiwara\Documents\GitHub\Cpp\Aidle\Aidle\obj\Debug\Aidle.exe
+C:\Users\ogiwara\Documents\GitHub\Cpp\Aidle\Aidle\obj\Debug\Aidle.pdb

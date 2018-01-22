@@ -8,18 +8,11 @@
   section .text
 
 _main:
-  ; DWORD bytes;
-  ;  <- prepare local variable
   mov     ebp,  esp
   sub     esp,  4
-
-  ; hStdOut = GetStdHandle(STD_OUTPUT_HANDLE)
-  ;       (STD_OUTPUT_HANDLE = -11)
   push    -11
   call    _GetStdHandle@4
   mov     ebx, eax
-
-  ; WriteFile( hStdOut, msg, length(msg), &size, 0)
   push    0
   lea     eax, [ebp - 4]
   push    eax
